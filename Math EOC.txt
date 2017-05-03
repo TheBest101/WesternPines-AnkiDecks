@@ -1,0 +1,6 @@
+f(1)=-2;f(n)=2f(n-1)+3d;f(5)=???	101
+Intercept Formula	x = p+q/2
+Distance Formula	sqrt((x2-x1)^2+(y2-y1)^2)
+Vertical Throwing model	h = -16t^2 - vt + s&amp;nbsp;
+Vertical Falling model	h = -16t + s
+sqrt(2000) no calculator	20sqrt(5)
